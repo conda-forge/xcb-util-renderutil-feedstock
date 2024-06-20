@@ -22,10 +22,8 @@ requirements:
     - make
     - pkg-config
   host:
-    - libxcb >=1.13
+    - libxcb
     - xorg-xproto
-  run:
-    - libxcb >=1.13
 
 test:
   commands:
