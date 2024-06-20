@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://xcb.freedesktop.org/dist/xcb-util-renderutil-{{ version }}.tar.xz
-  sha256: c6e97e48fb1286d6394dddb1c1732f00227c70bd1bedb7d1acabefdd340bea5b
+  sha256: 3e15d4f0e22d8ddbfbb9f5d77db43eacd7a304029bf25a6166cc63caa96d04ba
 
 build:
   number: 0
